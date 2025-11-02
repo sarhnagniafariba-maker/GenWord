@@ -1,2 +1,7 @@
-# GenWord
-An LSTM-based text generation model built with PyTorch, trained on the complete works of William Shakespeare. This project explores the power of recurrent neural networks to learn and replicate the intricate linguistic style of the Bard, generating new and original sonnets, soliloquies, and prose.
+### A Shakespearean Text Generator
+
+This project uses a Long Short-Term Memory (LSTM) neural network, built with PyTorch, to generate new text in the style of William Shakespeare.
+
+The model is trained on a corpus of Shakespeare's works, allowing it to learn his unique vocabulary, sentence structure, and literary patterns. By providing a starting seed of words, the model can generate original prose and verse that mimics the voice of the Bard.
+
+Dive in to see how modern deep learning can be used to replicate a classic literary style
